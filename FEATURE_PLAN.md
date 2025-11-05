@@ -12,6 +12,7 @@
 | 🟡 High | Medium | Vaccination Tracking | MVP Phase 2 |
 | 🟡 High | Medium | Billing System | MVP Phase 2 |
 | 🟡 High | Low | Dashboard Analytics | MVP Phase 2 |
+| 🟡 High | High | Pet Store / E-Commerce | MVP Phase 2 |
 | 🟢 Medium | High | Inventory Management | Phase 3 |
 | 🟢 Medium | Medium | Prescription Management | Phase 3 |
 | 🟢 Medium | Medium | Email/SMS Notifications | Phase 3 |

@@ -85,14 +85,17 @@
 | **Billing** | Create invoices, record payments |
 | **Dashboard** | Today's view, basic metrics |
 | **Print** | Receipts, medical certificates |
+| **Basic Pet Store** | Product catalog, simple POS |
 
 ### ❌ What's NOT Included (Post-MVP)
 | Feature | Why Deferred |
 |---------|-------------|
-| Inventory Management | Complex, not critical for Day 1 |
+| Full E-Commerce (Online Store) | Can start with in-clinic sales |
+| Inventory Management | Complex, can track manually first |
 | SMS/Email Notifications | Requires additional services |
 | Advanced Reports | Can use basic dashboard initially |
 | Client Portal | Separate system, can add later |
+| Online Payment Gateway | Start with cash/manual payments |
 | Vaccination Tracking | Can use medical records for now |
 | Multiple Clinics | Single clinic focus first |
 
